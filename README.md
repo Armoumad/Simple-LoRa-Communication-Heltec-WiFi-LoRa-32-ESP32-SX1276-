@@ -173,13 +173,7 @@ if (incoming.indexOf(':') > 0) {
 | Garbled text | Serial settings / power stability |
 | Short range | Antenna quality, SF increase, ensure proper power setting |
 
----
 
-## 🧾 License
-
-(Add your license here, e.g. MIT, Apache-2.0.)
-
----
 
 ## 🤝 Contributing
 
@@ -208,6 +202,6 @@ PRs welcome: protocol abstraction, encryption, OLED status (Heltec has onboard O
 
 ## ✨ Author
 
-Adapted for Heltec LoRa32 by (your name / handle).
+Adapted for Heltec LoRa32 by (ARMOUMAD / handle).
 
-Happy LoRa hacking!
+
